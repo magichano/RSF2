@@ -1,5 +1,5 @@
 some text fo header
-
 changes from master
+changes from first
 
-new changes
+text from master: new changes
